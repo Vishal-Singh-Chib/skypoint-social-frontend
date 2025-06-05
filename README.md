@@ -9,6 +9,9 @@ This README describes how to set up and run the React frontend for a social medi
 
 - Node.js (v18+ recommended)
 - npm
+- npm install react-router-dom
+- npm install react-redux
+- npm install @reduxjs/toolkit
 
 ---
 
