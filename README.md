@@ -119,21 +119,6 @@ import { GoogleOAuthProvider } from '@react-oauth/google';
   onError={() => console.log('Login Failed')}
 />
 ```
-
----
-
-## 📁 Suggested Folder Structure
-
-```
-src/
-│
-├── components/       # Reusable UI components
-├── pages/            # Route pages
-├── redux/            # Redux slices & store
-├── App.tsx
-└── main.tsx
-```
-
 ---
 
 ## ✅ Final Notes
@@ -142,6 +127,3 @@ src/
 - Keep Google client ID **client-side only** for login.
 - Always verify the `credentialResponse` with the server for real-world apps.
 
----
-
-© 2025 Your Project
