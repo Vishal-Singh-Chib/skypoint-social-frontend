@@ -12,7 +12,10 @@ This README describes how to set up and run the React frontend for a social medi
 - npm install react-router-dom
 - npm install react-redux
 - npm install @reduxjs/toolkit
+- npm install @react-oauth/google@latest
+- npm install @mui/material @emotion/react @emotion/styled @fontsource/roboto @mui/icons-material
 
+explained below.
 ---
 
 ## 📦 Project Dependencies (from package.json)
